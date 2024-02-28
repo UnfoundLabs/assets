@@ -43,14 +43,22 @@
       {
         "display_type": "number",
         "trait_type": "Rarity",
-        "value": 500,
+        "value": 3,
         "max_value": 1000
       },
-        {
+      {
+        "trait_type": "Global Ranking",
+        "value": 5,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Leaderboard Position",
+        "value": "1st"
+      },
+      {
         "display_type": "number",
-        "trait_type": "Rarity Score",
-        "value": 50,
-        "max_value": 100
+        "trait_type": "Rarity Score Percentile",
+        "value": 5
       },
       {
         "display_type": "date",
