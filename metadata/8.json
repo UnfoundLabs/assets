@@ -52,11 +52,6 @@
         "value": 85
       },
       {
-        "display_type": "number",
-        "trait_type": "Edition",
-        "value": 1
-      },
-      {
         "display_type": "date",
         "trait_type": "Release Date",
         "value": 1677628800
