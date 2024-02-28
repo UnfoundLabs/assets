@@ -6,6 +6,14 @@
     "background_color": "FF10F0",
     "attributes": [
       {
+        "trait_type": "Rarity Score",
+        "value": 90.5
+      },
+      {
+        "trait_type": "Rarity Rank",
+        "value": "300/10000"
+      },
+      {
         "trait_type": "Headgear",
         "value": "Cyber"
       },
