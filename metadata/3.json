@@ -7,38 +7,49 @@
     "attributes": [
       {
         "trait_type": "Headgear",
-        "value": "Matrix"
+        "value": "Matrix Glow"
       },
       {
         "trait_type": "Hair Style",
-        "value": "FoHawk"
+        "value": "Oceanic"
       },
       {
         "trait_type": "Visual Effect",
-        "value": "Neon Glow"
+        "value": "Neon"
       },
       {
         "trait_type": "Jacket",
-        "value": "Digital Armor"
+        "value": "Skin"
       },
       {
         "trait_type": "Aura",
-        "value": "Deems"
+        "value": "Drifter"
       },
       {
         "trait_type": "Mood",
         "value": "Focused"
       },
       {
+        "display_type": "boost_percentage",
+        "trait_type": "Rarity",
+        "value": 5
+      },
+      {
         "display_type": "boost_number",
         "trait_type": "Charisma Level",
-        "value": 40,
+        "value": 70,
         "max_value": 100
+      },
+      {
+        "trait_type": "Global Ranking",
+        "value": 5,
+        "display_type": "number",
+        "max_value": 5000
       },
       {
         "display_type": "boost_percentage",
         "trait_type": "Neon Intensity",
-        "value": 45
+        "value": 85
       },
       {
         "display_type": "number",
