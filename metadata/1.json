@@ -1,13 +1,7 @@
 {
     "name": "Unfound Meka #1",
     "description": "Unfound Labs is a digital cyberpunk, adorned with neon highlights and a futuristic headset, overseeing the digital realm with sharp eyes. This NFT is a beacon of the cyber world's culture and aesthetics.",
-    "image": {
-        "cachedUrl": "https://raw.githubusercontent.com/UnfoundLabs/assets/main/metadata/1.png",
-        "contentType": null,
-        "originalUrl": "https://raw.githubusercontent.com/UnfoundLabs/assets/main/metadata/1.png",
-        "size": "1024x1024",
-        "thumbnailUrl": "https://raw.githubusercontent.com/UnfoundLabs/assets/main/metadata/1.png"
-    },
+    "image": "https://raw.githubusercontent.com/UnfoundLabs/assets/main/metadata/2.png",
     "external_url": "https://unfoundlabs.com",
     "background_color": "FF10F0",
     "attributes": [
