@@ -42,8 +42,15 @@
       },
       {
         "display_type": "number",
-        "trait_type": "Edition",
-        "value": 1
+        "trait_type": "Rarity",
+        "value": 500,
+        "max_value": 1000
+      },
+        {
+        "display_type": "number",
+        "trait_type": "Rarity Score",
+        "value": 50,
+        "max_value": 100
       },
       {
         "display_type": "date",
