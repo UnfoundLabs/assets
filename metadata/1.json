@@ -5,7 +5,6 @@
         "cachedUrl": "https://raw.githubusercontent.com/UnfoundLabs/assets/main/metadata/1.png",
         "contentType": null,
         "originalUrl": "https://raw.githubusercontent.com/UnfoundLabs/assets/main/metadata/1.png",
-        "pngUrl": null,
         "size": "1024x1024",
         "thumbnailUrl": "https://raw.githubusercontent.com/UnfoundLabs/assets/main/metadata/1.png"
     },
@@ -14,49 +13,60 @@
     "attributes": [
         {
             "trait_type": "Headgear",
-            "value": "Futuristic Headset"
+            "value": "Futuristic Headset",
+            "rarity": "Rare"
         },
         {
             "trait_type": "Hair Style",
-            "value": "Long Strand"
+            "value": "Long Strand",
+            "rarity": "Common"
         },
         {
             "trait_type": "Visual Effect",
-            "value": "Branded Neon Glow"
+            "value": "Branded Neon Glow",
+            "rarity": "Ultra Rare"
         },
         {
             "trait_type": "Jacket",
-            "value": "Digital Armor"
+            "value": "Digital Armor",
+            "rarity": "Rare"
         },
         {
             "trait_type": "Aura",
-            "value": "Cybernetic Essence"
+            "value": "Cybernetic Essence",
+            "rarity": "Legendary"
         },
         {
             "trait_type": "Mood",
-            "value": "Focused"
+            "value": "Focused",
+            "rarity": "Uncommon"
         },
         {
             "display_type": "boost_number",
             "trait_type": "Charisma Level",
             "value": 80,
-            "max_value": 100
+            "max_value": 100,
+            "rarity": "Common"
         },
         {
             "display_type": "boost_percentage",
             "trait_type": "Neon Intensity",
-            "value": 75
+            "value": 75,
+            "rarity": "Rare"
         },
         {
             "display_type": "number",
             "trait_type": "Edition",
-            "value": 1
+            "value": 1,
+            "rarity": "Unique"
         },
         {
             "display_type": "date",
             "trait_type": "Release Date",
-            "value": 1677628800
+            "value": 1677628800,
+            "rarity": "Not Applicable"
         }
     ],
-    "collection": "Unfound Meka Collection"
+    "collection": "Unfound Meka Collection",
+    "overall_rarity": "Ultra Rare"
 }
