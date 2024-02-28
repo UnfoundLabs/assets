@@ -7,8 +7,10 @@
     "attributes": [
       {
         "trait_type": "Headgear",
-        "value": "Matrix Reloaded"
-      },
+        "value": "Futuristic Headset",
+        "rarity": "Rare",
+        "demand_score": 85
+        },
       {
         "trait_type": "Hair Style",
         "value": "Silver Surfer"
