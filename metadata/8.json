@@ -30,14 +30,8 @@
         "value": "Focused"
       },
       {
-        "display_type": "boost_number",
-        "trait_type": "Rarity",
-        "value": 100,
-        "max_value": 5000
-      },
-      {
         "display_type": "boost_percentage",
-        "trait_type": "Rarity Percentage",
+        "trait_type": "Rarity",
         "value": 5
       },
       {
