@@ -68,5 +68,9 @@
         }
     ],
     "collection": "Unfound Meka Collection",
-    "overall_rarity": "Ultra Rare"
+    "overall_rarity": "Ultra Rare",
+    "rarity_ranking": {
+        "rank": 30,
+        "out_of": 10000
+    }
 }
