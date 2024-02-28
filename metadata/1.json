@@ -40,7 +40,13 @@
         "trait_type": "Neon Intensity",
         "value": 25
       },
-      {
+       {
+        "display_type": "Rarity",
+        "trait_type": "Ultra Rare",
+        "value": 1,
+        "max_value": 5000
+      },
+       {
         "display_type": "number",
         "trait_type": "Edition",
         "value": 1
