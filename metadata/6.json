@@ -6,36 +6,28 @@
     "background_color": "FF10F0",
     "attributes": [
       {
-        "trait_type": "Rarity Score",
-        "value": 90.5
-      },
-      {
-        "trait_type": "Rarity Rank",
-        "value": "300/10000"
-      },
-      {
         "trait_type": "Headgear",
-        "value": "Cyber"
+        "value": "Slasher"
       },
       {
         "trait_type": "Hair Style",
-        "value": "Oceanic"
+        "value": "Goddess"
       },
       {
         "trait_type": "Visual Effect",
-        "value": "Smooth"
+        "value": "Cyber Glow"
       },
       {
         "trait_type": "Jacket",
-        "value": "None"
+        "value": "Digital Armor"
       },
       {
         "trait_type": "Aura",
-        "value": "SunStar"
+        "value": "Goddess"
       },
       {
         "trait_type": "Mood",
-        "value": "Elevated"
+        "value": "Connected"
       },
       {
         "display_type": "boost_number",
@@ -44,14 +36,41 @@
         "max_value": 100
       },
       {
+        "display_type": "boost_number",
+        "trait_type": "Rarity",
+        "value": 100,
+        "max_value": 5000
+      },
+      {
+        "display_type": "boost_percentage",
+        "trait_type": "Rarity Percentage",
+        "value": 5,
+        "max_value": 100
+      },
+      {
         "display_type": "boost_percentage",
         "trait_type": "Neon Intensity",
-        "value": 65
+        "value": 95
       },
       {
         "display_type": "number",
-        "trait_type": "Edition",
-        "value": 1
+        "trait_type": "Rarity",
+        "value": 3,
+        "max_value": 1000
+      },
+      {
+        "trait_type": "Global Ranking",
+        "value": 5,
+        "display_type": "number"
+      },
+      {
+        "trait_type": "Leaderboard Position",
+        "value": "1st"
+      },
+      {
+        "display_type": "number",
+        "trait_type": "Rarity Score Percentile",
+        "value": 5
       },
       {
         "display_type": "date",
